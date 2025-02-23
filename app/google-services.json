@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "554029992130",
+    "project_id": "pap-firebase-acc87",
+    "storage_bucket": "pap-firebase-acc87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554029992130:android:33acbf74e6f7c6a75d135b",
+        "android_client_info": {
+          "package_name": "com.example.pap_projetofilmes_a26255"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkBVGl5tSW0aTgY324ABWT9D8wJbWp9I8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
