@@ -65,3 +65,9 @@
 ### Email: guilhermeetoogmorais@gmail.com
 ### GitHub: https://github.com/zeus1sx
 ### LinkedIn: https://www.linkedin.com/in/guilherme-morais-23750b340/
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
